@@ -1,0 +1,50 @@
+.bg-primary {
+    background-color: #383e56;
+}
+
+.bg-secondary {
+    background-color: #f69e7b;
+}
+
+.bg-tercero {
+    background-color: greenyellow;
+}
+
+.bg-info {
+    background-color: #d4b5b0;
+}
+
+.bg-light {
+    background-color: #eedad1;
+}
+
+.text-info {
+    color: brown;
+    text-align: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.text-light {
+    color: rgb(1, 20, 20);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text-white {
+    color: #fff
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-primary {
+    color: rgb(209, 31, 7)
+}
+
+.text-secundary {
+    color: chartreuse;
+}
+
+.w200 {
+    width: 200px;
+}

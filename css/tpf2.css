@@ -1,0 +1,79 @@
+html {
+    box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+body {
+    font-family: 'Noto Sans Mono', monospace;
+}
+.mt-2 {
+    margin-top: 2rem;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    max-width: 600px;
+    /* background-color: aqua; */
+}
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 0.5em;
+    margin: 0.0.1em;
+    border-radius: 0.5em;
+}
+.btn-primary {
+    color: white;
+    background-color: #264653;
+}
+.btn-secondary {
+    color: white;
+    background-color: #2a9d8f;
+}
+.btn-danger {
+    color: white;
+    background-color: #e76f51;
+}
+.btn-info {
+    color: black;
+    background-color: #e9c46a;
+}
+.btn-success {
+    color: black;
+    background-color: #f4a261;
+}
+.logo {
+    text-decoration: none;
+    font-size: 3rem;
+    display: block;
+    text-align: center;
+    color: white;
+    padding: 0.5em;
+    background-color: #264653;
+}
+.card {
+    color: white;
+    width: 300px;
+    background-color: #2a9d8f;
+    overflow: hidden;
+    border-radius: 0.5em;
+}
+.card-img {
+    width: 100%;
+}
+.card-body {
+    padding: 1em;
+}
+.card-body h1 {
+    font-size: 1.5rem;
+    margin: 1em 0;
+    font-weight: 900;
+}
+.card-body p {
+    font-weight: 700;
+}

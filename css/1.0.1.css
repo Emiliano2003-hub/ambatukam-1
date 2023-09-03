@@ -1,0 +1,61 @@
+h1 {
+    color: firebrick;
+}
+.teo {
+    border-style: solid;
+}
+.peo {
+    border-style: dashed;
+}
+.nashe {
+    display:inline ;
+}
+.nashi {
+    display: block;
+}
+.lolita {
+    padding: 50px;
+    border-style: solid;
+}
+.lolo {
+    color: rgb(189, 47, 255);
+    /*En el padding el arriba y el abajo es el izquierdo, minetras que la derecha e izquierada se ubican en el lado derecho como dice abajo
+    Tambien puede ser de 3 caracteres 20px 30px 70px el primero y el segundo son arriba u abajo, mientras que el segundo son izquierda y derecha.*/
+    padding: 50px 100px;
+    margin: 70px;
+    border-style: dotted;
+}
+.lolel {
+    color: cadetblue;
+    border-style: groove;
+    padding: 50px 30px 20px 100px;
+}
+.tobi {
+    margin: 50px 20px;
+    border-style: solid;
+    color:rgb(107, 14, 30);
+    padding: 40px;
+}
+.toba {
+    border-style: solid;
+    color: darkgoldenrod;
+}
+.mala {
+    background-color: darkgreen;
+    width: 500px;
+    height: 100px;
+
+}
+.malo {
+    background-color: rgb(241, 140, 241);
+    display: inline-block;
+    height: 100px;
+    width: 400px;
+}
+.box-sizing {
+    box-sizing: border-box;
+}
+.padd {
+    padding: 50px;
+    margin: 50px;
+}
